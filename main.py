@@ -19,3 +19,5 @@ print('git_test')
 print('git_test2')
 
 print('git_test3')
+
+print('git_test3')
